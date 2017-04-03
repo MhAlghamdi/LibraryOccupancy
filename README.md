@@ -3,7 +3,7 @@ This repository contains an Android application for LibraryOccupancyApp. The app
 
 The application shows the current occupancy of the library using a sensor device built in Android. Also, it provides a view histogram of total occupancy over the previous 7 days, which displays the total occupancy of each day and the highest and lowest occupancy of the week.
 
-![Alt text](/path/to/img.jpg "Optional title")
+![Alt text](https://github.com/MhAlghamdi/LibraryOccupancy/blob/master/LibraryOccupancyApp/app/src/main/res/drawable/screenshots.png "Optional title")
 
 ## Recent modified files in the app
 * Using [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart "title") library to display graphs.
