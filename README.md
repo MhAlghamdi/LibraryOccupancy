@@ -5,6 +5,7 @@ The application shows the current occupancy of the library using a sensor device
 
 ## App screenshots and logo
 ![Alt text](https://github.com/MhAlghamdi/LibraryOccupancy/blob/master/LibraryOccupancyApp/app/src/main/res/drawable/library_logo.png "Optional title")
+
 ![Alt text](https://github.com/MhAlghamdi/LibraryOccupancy/blob/master/LibraryOccupancyApp/app/src/main/res/drawable/screenshots.png "Optional title")
 
 ## Recent modified files in the app
