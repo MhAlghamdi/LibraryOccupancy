@@ -1,0 +1,2 @@
+# Library Occupancy
+User can view the current occupancy of the CSUSB library using a sensor device and Android application. Also, user will be able to view a histogram of total occupancy over the previous 7 days, which displays the total occupancy of each day and the highest and lowest occupancy of the week.

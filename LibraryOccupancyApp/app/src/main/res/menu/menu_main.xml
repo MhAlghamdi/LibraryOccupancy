@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/csusb"
+        android:orderInCategory="100"
+        android:title="CSUSB"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/about"
+        android:orderInCategory="101"
+        android:title="About"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/refresh"
+        android:orderInCategory="102"
+        android:title="Refresh Chart"
+        app:showAsAction="always"
+        android:icon="@mipmap/ic_refresher"
+        />
+</menu>
