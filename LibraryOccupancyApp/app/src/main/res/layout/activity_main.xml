@@ -31,6 +31,7 @@ tools:context=".MainActivity">
     android:layout_alignParentRight="true"
     android:layout_alignWithParentIfMissing="true"
     android:layout_centerHorizontal="true">
+
     <Button
         android:id="@+id/occupancyButton"
         android:layout_width="wrap_content"
@@ -47,6 +48,7 @@ tools:context=".MainActivity">
         android:textSize="16sp"
         android:layout_marginLeft="40dp"
         android:layout_marginTop="25dp" />
+
     <Button
         android:id="@+id/reserveButton"
         android:layout_width="wrap_content"
